@@ -1,3 +1,5 @@
+//Files are unfortuanately not going to be changed much as The solutions were posted onto the github page by mistake
+
 import React, { useState } from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./App.css";
